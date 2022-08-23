@@ -1,0 +1,10 @@
+MANAGE & TRACK
+ALL YOUR WORKOUTS
+IN ONE PLACE
+
+day 1: creating and initializing plan
+day 2: sign up page 
+day 3: login page
+day 4: navbar , blog page
+day 5: home page
+
